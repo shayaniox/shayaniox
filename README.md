@@ -7,5 +7,5 @@ Languages:
 
 Interests:
     - OS concepts
-    - Networking Programming
+    - Network Programming
 ```
